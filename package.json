@@ -1,0 +1,45 @@
+{
+  "name": "strapi-email-nodemailer",
+  "version": "3.0.0-alpha.12.5",
+  "description": "Nodemailer provider for strapi email",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "email",
+    "strapi",
+    "nodemailer"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "nodemailer": "^4.6.7"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "audiomancer@bluewin.ch",
+    "name": "audiomancer",
+    "url": "https://github.com/audiomancer"
+  },
+  "maintainers": [
+    {
+      "name": "audiomancer",
+      "email": "audiomancer@bluewin.ch",
+      "url": "https://github.com/audiomancer"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/audiomancer/strapi-email-nodemailer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "license": "MIT"
+}
