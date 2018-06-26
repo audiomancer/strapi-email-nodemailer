@@ -1,6 +1,6 @@
 {
   "name": "strapi-email-nodemailer",
-  "version": "3.0.0-alpha.12.5",
+  "version": "0.1.0",
   "description": "Nodemailer provider for strapi email",
   "homepage": "http://strapi.io",
   "keywords": [
